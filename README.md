@@ -2,4 +2,4 @@
 
 Foreach Human in Humans:
     Say: Hi Human!
-         Just Human!
+Say: Just Human!
